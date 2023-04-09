@@ -45,9 +45,7 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
-article,aside,figcaption,figure,footer,header,hgroup,main,nav,section {
-  display: block;
-}
+
 
 body {
   margin: 0;
